@@ -1,0 +1,3 @@
+NotExpired
+
+Reports show that we are throwing away more un-eaten food than ever before. All this waste is bad for the environment, and bad for our pockets. NotExpired is your go to app for checking whether expiry dates are accurate. Search your food item, enter its packaging, how long it's been open, where you stored it, and the expiry date. NotExpired will tell you if there is any longevity left in it.
